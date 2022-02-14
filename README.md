@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dan-Blanchette
-- 👀 I’m interested in ... Informatics, Data Modeling Robotics, Automation, and Machine Learning
+- 👀 I’m interested in ... Informatics, Data Modeling, Robotics, Automation, and Machine Learning
 - 🌱 I’m currently learning ... Python, C, and refreshing myself on C++.
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... https://www.linkedin.com/in/dan-blanchette-395b17211/
