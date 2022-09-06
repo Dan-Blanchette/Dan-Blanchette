@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Bio-Informatics, Data Modeling, Robotics, Automation, and Machine Learning
 - 🌱 I’m currently learning ... Python, C, and refreshing myself on C++.
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... https://www.linkedin.com/in/dan-blanchette-395b17211/
+- 📫 How to reach me ... https://www.linkedin.com/in/dan-b-395b17211/
 
 <!---
 Dan-Blanchette/Dan-Blanchette is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
