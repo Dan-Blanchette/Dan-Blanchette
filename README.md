@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dan-Blanchette
-- 👀 I’m interested in ... Machine Vision, Robotics, Automation, and AI
-- 🌱 I’m currently learning ... Machine Vision Techniques via my INBRE fellowship.
+- 👀 I’m interested in ... Machine Vision, Robotics, PLCs, and Industrial Automation.
+- 🌱 I’m currently learning ... Digital Twins Programming, Advanced PLC Topics, and Compiler Design.
 - 📫 How to reach me ... https://www.linkedin.com/in/dan-b-395b17211/
 
 <!---
